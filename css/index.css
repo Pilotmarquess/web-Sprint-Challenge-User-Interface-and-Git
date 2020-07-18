@@ -146,7 +146,7 @@ footer nav a {
     text-decoration: none;
 }
 
-.boxes nth-of-type (1) {
+/*.box:nth-of-type(1) {
     background-color: teal;
 }
 
@@ -154,5 +154,66 @@ footer nav a {
     background-color: gold;
 }
 
+.boxes nth-of-type (3) {
+    background-color: ;
+}
 
+.boxes nth-of-type (4) {
+    background-color: ;
+}
+
+.boxes nth-of-type (5) {
+    background-color: ;
+}
+
+.boxes nth-of-type (6) {
+    background-color: ;
+}
+
+.boxes nth-of-type (7) {
+    background-color: ;
+}
+
+.boxes nth-of-type (8) {
+    background-color: ;
+}
+
+.boxes nth-of-type (9) {
+    background-color: ;
+}
+
+.boxes nth-of-type (10) {
+    background-color: ;
+}*/
+
+#box1{
+    background-color: teal;
+}
+#box2{
+    background-color: gold;
+}
+#box3{
+    background-color: cadetblue;
+}
+#box4{
+    background-color: coral;
+}
+#box5{
+    background-color: crimson;
+}
+#box6{
+    background-color: forestgreen;
+}
+#box7{
+    background-color: darkorchid;
+}
+#box8{
+    background-color: hotpink;
+}
+#box9{
+    background-color: indigo;
+}
+#box10{
+    background-color: dodgerblue;
+}
 
