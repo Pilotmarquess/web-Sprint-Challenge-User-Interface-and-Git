@@ -55,6 +55,7 @@ html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
+    
 }
 
 h1, h2, h3, h4, h5 {
@@ -146,45 +147,6 @@ footer nav a {
     text-decoration: none;
 }
 
-/*.box:nth-of-type(1) {
-    background-color: teal;
-}
-
-.boxes nth-of-type (2) {
-    background-color: gold;
-}
-
-.boxes nth-of-type (3) {
-    background-color: ;
-}
-
-.boxes nth-of-type (4) {
-    background-color: ;
-}
-
-.boxes nth-of-type (5) {
-    background-color: ;
-}
-
-.boxes nth-of-type (6) {
-    background-color: ;
-}
-
-.boxes nth-of-type (7) {
-    background-color: ;
-}
-
-.boxes nth-of-type (8) {
-    background-color: ;
-}
-
-.boxes nth-of-type (9) {
-    background-color: ;
-}
-
-.boxes nth-of-type (10) {
-    background-color: ;
-}*/
 
 #box1{
     background-color: teal;
@@ -217,6 +179,7 @@ footer nav a {
     background-color: dodgerblue;
 }
 
+
 .contentH2{
     margin: 10px 0px 15px 0px !important;
     padding: 0px !important;   
@@ -234,6 +197,7 @@ footer nav a {
        -webkit-transform: scale(1.1);
        -ms-transform: scale(1.1);
        transform: scale(1.1);
+   }
 
 .navigationParent{
     width: 93%;
@@ -272,3 +236,6 @@ button{
     margin: 2%;
     border-bottom: 1px dashed black;
 }
+
+
+
